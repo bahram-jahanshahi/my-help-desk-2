@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd342a57-094c-44b1-967b-690b3319783b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MyHelpDesk2@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MyHelpDesk2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MyHelpDesk2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="MyHelpDesk2: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y17hjWJGMaGE4IQJzb7to3Fm6r" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/resources/fonts/iransans" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\idea-projects-2020\my-help-desk-2\src\main\resources\static\resources\fonts\iransans" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyHelpDesk2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-help-desk-2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ir.afarinesh.myhelpdesk2.MyHelpDesk2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MyHelpDesk2@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MyHelpDesk2@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@19089de2" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd342a57-094c-44b1-967b-690b3319783b" name="Default Changelist" comment="" />
+      <created>1582098367499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582098367499</updated>
+      <workItem from="1582098374023" duration="9008000" />
+      <workItem from="1582132160243" duration="10950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="182" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582109758765">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="555" y="182" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.987@0.27.1920.987" timestamp="1582109758765" />
+    <state x="554" y="202" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582134754786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="202" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582134754786" />
+    <state x="693" y="269" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.987@0.27.1920.987" timestamp="1582099926917" />
+    <state width="1480" height="514" key="GridCell.Tab.0.bottom" timestamp="1582142825215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582142825215" />
+    <state width="1874" height="499" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1582109325372" />
+    <state width="1480" height="514" key="GridCell.Tab.0.center" timestamp="1582142825215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582142825215" />
+    <state width="1874" height="499" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1582109325372" />
+    <state width="1480" height="514" key="GridCell.Tab.0.left" timestamp="1582142825215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582142825215" />
+    <state width="1874" height="499" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1582109325371" />
+    <state width="1480" height="514" key="GridCell.Tab.0.right" timestamp="1582142825215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582142825215" />
+    <state width="1874" height="499" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1582109325372" />
+    <state width="1480" height="514" key="GridCell.Tab.1.bottom" timestamp="1582142825216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582142825216" />
+    <state width="1874" height="499" key="GridCell.Tab.1.bottom/0.27.1920.987@0.27.1920.987" timestamp="1582109325373" />
+    <state width="1480" height="514" key="GridCell.Tab.1.center" timestamp="1582142825216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582142825216" />
+    <state width="1874" height="499" key="GridCell.Tab.1.center/0.27.1920.987@0.27.1920.987" timestamp="1582109325373" />
+    <state width="1480" height="514" key="GridCell.Tab.1.left" timestamp="1582142825215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582142825215" />
+    <state width="1874" height="499" key="GridCell.Tab.1.left/0.27.1920.987@0.27.1920.987" timestamp="1582109325373" />
+    <state width="1480" height="514" key="GridCell.Tab.1.right" timestamp="1582142825216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="514" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582142825216" />
+    <state width="1874" height="499" key="GridCell.Tab.1.right/0.27.1920.987@0.27.1920.987" timestamp="1582109325373" />
+    <state x="249" y="90" key="IDE.errors.dialog" timestamp="1582139163589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="90" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1582139163589" />
+    <state x="401" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582132162184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="188" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582132162184" />
+    <state x="507" y="204" width="906" height="632" key="find.popup" timestamp="1582099478433">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="507" y="204" width="906" height="632" key="find.popup/0.27.1920.987@0.27.1920.987" timestamp="1582099478433" />
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1582099177387">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.987@0.27.1920.987" timestamp="1582099177387" />
+  </component>
+</project>
